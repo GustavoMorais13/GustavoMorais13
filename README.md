@@ -33,16 +33,7 @@ Desenvolvimento de lógica matemática e manipulação de eventos para processam
 ### [🕒 Relógio Digital](https://github.com/GustavoSCCP13/relogio)
 Foco em manipulação dinâmica do DOM e sincronização de tempo em tempo real.
 
----
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSCCP13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSCCP13&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
 
 ## 📫 Conecte-se comigo:
 
