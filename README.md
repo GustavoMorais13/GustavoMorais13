@@ -1,5 +1,5 @@
 Olá, eu sou o Gustavo Morais! 👋
-Desenvolvedor Front-End | JavaScript • React • HTML5 • CSS3
+Desenvolvedor Front-End | JavaScript • HTML5 • CSS3
 
 Sou um desenvolvedor focado em transformar ideias em experiências digitais intuitivas, responsivas e de alta performance. Acredito que o Front-End é a intersecção perfeita entre lógica e design. Embora tenha uma base sólida em bancos de dados e lógica de servidor, minha paixão está em construir interfaces modernas (UI) e garantir a melhor jornada para o usuário (UX), sempre prezando por um código limpo e componentes reutilizáveis.
 
