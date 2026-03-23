@@ -1,37 +1,31 @@
-# Olá, eu sou o Gustavo Morais! 👋
+Olá, eu sou o Gustavo Morais! 👋
+Desenvolvedor Front-End | JavaScript • React • HTML5 • CSS3
 
-### Desenvolvedor FrontEnd | HTML • CSS • JavaScript • MySQL
+Sou um desenvolvedor focado em transformar ideias em experiências digitais intuitivas, responsivas e de alta performance. Acredito que o Front-End é a intersecção perfeita entre lógica e design. Embora tenha uma base sólida em bancos de dados e lógica de servidor, minha paixão está em construir interfaces modernas (UI) e garantir a melhor jornada para o usuário (UX), sempre prezando por um código limpo e componentes reutilizáveis.
 
-Sou um desenvolvedor focado em construir sistemas eficientes e arquiteturas de dados sólidas. Acredito que a performance e a segurança são os pilares de uma boa aplicação. Embora meu foco principal seja o Backend, possuo domínio das tecnologias fundamentais da web (HTML/CSS), o que me permite ter uma visão 360º do desenvolvimento e facilitar a integração em times multidisciplinares.
+🛠️ Tecnologias & Ferramentas
+Front-End: JavaScript (ES6+), HTML5, CSS3, Sass/Less.
 
----
+Frameworks/Libs: React.js (em desenvolvimento), Chart.js para dashboards dinâmicos.
 
-## 🛠️ Tecnologias & Ferramentas
+Design & UI: Glassmorphism, Design Responsivo, Flexbox/Grid.
 
-- **Linguagens:** JavaScript (ES6+), HTML5, CSS3.
-- **Backend:** Node.js.
-- **Banco de Dados:** MySQL (Modelagem Relacional e Queries).
-- **Data Viz:** Chart.js para dashboards dinâmicos.
-- **Versionamento:** Git & GitHub.
+Versionamento: Git & GitHub.
 
----
+Conhecimento Complementar: Node.js e MySQL (visão Full Stack para facilitar a integração com APIs).
 
-## 🚀 Projetos em Destaque
+🚀 Projetos em Destaque
+💻 Portfólio Pessoal
+Meu cartão de visitas digital, desenvolvido com uma identidade visual moderna em tons de ciano. Explorei técnicas avançadas de Glassmorphism e Mobile First para garantir uma experiência impecável em qualquer dispositivo.
 
-### [💻 Portfólio Pessoal](https://github.com/GustavoSCCP13/portfolio)
-Meu cartão de visitas digital, desenvolvido com uma identidade visual moderna em tons de Ciano, utilizando técnicas de Glassmorphism e design responsivo.
+🎸 Projeto Temático - Fresno
+Aplicação focada em interatividade e visualização de dados. Desenvolvi um dashboard interativo utilizando Chart.js, onde o desafio principal foi o consumo de dados para renderizar gráficos de votação em tempo real com precisão estética.
 
-### [🎸 Projeto Individual - Fresno](https://github.com/GustavoSCCP13/projeto-inidivdual)
-Aplicação Full Stack completa com:
-- API em **Node.js**.
-- Banco de Dados **MySQL**.
-- Dashboard interativo de votação com **Chart.js**.
+🧮 Calculadora Interativa
+Projeto focado puramente em lógica de programação e manipulação de eventos. Priorizei a experiência do usuário através de um processamento instantâneo de operações e feedback visual imediato.
 
-### [🧮 Calculadora Interativa](https://github.com/GustavoSCCP13/calculadora)
-Desenvolvimento de lógica matemática e manipulação de eventos para processamento instantâneo de operações.
-
-### [🕒 Relógio Digital](https://github.com/GustavoSCCP13/relogio)
-Foco em manipulação dinâmica do DOM e sincronização de tempo em tempo real.
+🕒 Relógio Digital
+Um estudo prático sobre manipulação dinâmica do DOM e sincronização assíncrona, garantindo que a interface reflita o tempo real sem gargalos de performance.
 
 
 
