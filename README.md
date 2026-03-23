@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo Morais! 👋
 
-### Desenvolvedor Backend | Node.js • JavaScript • MySQL
+### Desenvolvedor FrontEnd | HTML • CSS • JavaScript • MySQL
 
 Sou um desenvolvedor focado em construir sistemas eficientes e arquiteturas de dados sólidas. Acredito que a performance e a segurança são os pilares de uma boa aplicação. Embora meu foco principal seja o Backend, possuo domínio das tecnologias fundamentais da web (HTML/CSS), o que me permite ter uma visão 360º do desenvolvimento e facilitar a integração em times multidisciplinares.
 
